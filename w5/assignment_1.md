@@ -2,7 +2,7 @@
 ## This is heading 2
 ### This is heading 3
 Please check my code.  
-```assembly
+```
 section .text
    global _start          ;must be declared for linker (gcc)
 	
