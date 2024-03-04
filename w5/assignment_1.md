@@ -21,3 +21,6 @@ _start:                   ;tell linker entry point
 section .data
 choice DB 'y'
 ```
+
+This is my inline code `add eax,0`  
+
