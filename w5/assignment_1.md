@@ -22,5 +22,11 @@ section .data
 choice DB 'y'
 ```
 
-This is my inline code `add eax,0`  
+This is my inline code `add eax,0`
+
+```python
+print("Hello World")
+```
+
+
 
